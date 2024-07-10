@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Peter!
+### Code enthusiast who wants to develop useful and creative solutions
+[![My Github](https://img.shields.io/github/followers/rem-aster.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rem-aster)
 
-<!--
-**rem-aster/rem-aster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+peter = {
+  "code": ["python", "go", "rust", "gdscript"],
+  "tools": ["docker", "git", "wsl", "godot", "mysql", "redis"],
+  "favl ibs" : ["aiogram"],
+  "shell": "zsh",
+  "os for code": "ubuntu in wsl",
+  "code editor": "vscode",
+  "achievements": ["Had an internship in VK (4 months total)", "Go course by Yandex completed", "Had a minecraft server (80+ online daily)"]
+}
+```
