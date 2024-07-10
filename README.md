@@ -11,6 +11,6 @@ peter = {
   "os for code": "ubuntu in wsl",
   "code editor": "vscode",
   "achievements": ["Had an internship in VK (4 months total)", "Go course by Yandex completed",
-                   "Had a minecraft server (80+ online daily)", "Learned Rust by myself"]
+                   "Made a minecraft server in 2020 (80+ online daily)", "Learned Rust by myself"]
 }
 ```
