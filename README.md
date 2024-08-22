@@ -10,7 +10,7 @@ peter = {
   "shell": "zsh",
   "os for code": "ubuntu in wsl",
   "code editor": "vscode",
-  "achievements": ["Had an internship in VK (4 months total)", "Go course by Yandex completed",
+  "achievements": ["Had a summer practice in VK (4 months total)", "Go course by Yandex completed",
                    "Made a minecraft server in 2020 (80+ online daily)", "Learned Rust by myself"]
 }
 ```
