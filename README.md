@@ -4,13 +4,11 @@
 
 ```python
 peter = {
-  "code": ["python", "go", "rust", "gdscript"],
+  "code": ["python", "go", "rust", "gdscript", "c++", "java", "html", "css"],
   "tools": ["docker", "git", "wsl", "godot", "mysql", "redis"],
-  "fav libs" : ["aiogram"],
-  "shell": "zsh",
-  "os for code": "ubuntu in wsl",
-  "code editor": "vscode",
-  "achievements": ["Had summer practices in VK Tarantool (4 months total, worked in Tarantool Column Store and Tarantool Presale teams)", "Golang course by Yandex completed in 2024",
+  "fav libs" : ["aiogram", "templ", "daisyui"],
+  "code editor": ["vscode", "neovim"],
+  "achievements": ["Had summer practices in VK Tarantool (4 months total, worked in Tarantool Column Store and Tarantool Presale teams)", "Golang Basics course by Yandex completed in 2024", "Golang Backend Developer course by Yandex completed in 2024
                    "Made a minecraft server in 2020 (80+ online daily)", "Learned Rust by myself"]
 }
 ```
