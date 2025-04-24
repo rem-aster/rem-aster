@@ -7,7 +7,7 @@ peter = {
   "code": ["python", "go", "rust", "gdscript", "c++", "html", "css", "typescript"],
 
   "tech": [
-    "docker", "git", "wsl", "godot", "mysql", "redis", "templ", "traefik", "docker compose", "postgresql",
+    "docker", "git", "wsl", "godot", "mysql", "redis", "traefik", "docker compose", "postgresql",
     "sqlite", "tauri", "tailwindcss", "xc", "sqlc", "encore", "vue", "mcp", "templ", "htmx", "ansible",
     "gitlab ci", "github actions"
   ],
