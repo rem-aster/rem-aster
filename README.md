@@ -1,6 +1,8 @@
 ## Hi, I'm Peter!
-### Code enthusiast who wants to develop useful and creative solutions
+### I free people of routine with the power of code
 [![My Github](https://img.shields.io/github/followers/rem-aster.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rem-aster)
+
+Currently working on: Witly (EdTech SaaS, private repo)
 
 ```python
 peter = {
